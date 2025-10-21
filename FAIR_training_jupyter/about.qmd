@@ -1,15 +1,15 @@
 ---
-title: "Habits"
-author: "John Doe"
+title: "Jupyter - Interactive prototyping with Python"
+author: "Samantha Wittke"
 format: revealjs
 ---
 
-## Getting up
+## What are interactive notebooks?
 
-- Turn off alarm
-- Get out of bed
+- Code, documentation and visualizations in one place
+- Edit and immediately see the results
 
-## Going to sleep
+## Why would I want to use this
 
-- Get in bed
-- Count sheep
+- Because it's awesome!
+- 
