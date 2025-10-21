@@ -1,30 +1,30 @@
 [
   {
-    "objectID": "about.html#getting-up",
-    "href": "about.html#getting-up",
-    "title": "Habits",
-    "section": "Getting up",
-    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+    "objectID": "about.html#what-are-interactive-notebooks",
+    "href": "about.html#what-are-interactive-notebooks",
+    "title": "Jupyter - Interactive prototyping with Python",
+    "section": "What are interactive notebooks?",
+    "text": "What are interactive notebooks?\n\nCode, documentation and visualizations in one place\nEdit and immediately see the results"
   },
   {
-    "objectID": "about.html#going-to-sleep",
-    "href": "about.html#going-to-sleep",
-    "title": "Habits",
-    "section": "Going to sleep",
-    "text": "Going to sleep\n\nGet in bed\nCount sheep"
+    "objectID": "about.html#why-would-i-want-to-use-this",
+    "href": "about.html#why-would-i-want-to-use-this",
+    "title": "Jupyter - Interactive prototyping with Python",
+    "section": "Why would I want to use this",
+    "text": "Why would I want to use this\n\nBecause it’s awesome!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jupyter - Interactive prototyping with Python",
     "section": "",
-    "text": "Contact & Instructor: Samantha Wittke, CSC - IT Center for Science, Finland; samantha.wittke@csc.fi Description: In this training we will explore the use of Jupyter for interactive protoyping with Python. Jupyter is a versatile tool for executable notebooks available on multiple platforms from own computer to the cloud. The lesson will introduce the tool as an alternative to writing scripts and discuss the usecases for scripts versus notebooks. Eligibility for participation: Open for everyone, but most useful for researchers who code Time and date: 22.10 at XX.XX Expectations: Everyone can follow the lesson Grading: No grading"
+    "text": "Contact & Instructor: Samantha Wittke, CSC - IT Center for Science, Finland; samantha.wittke@csc.fi\nDescription: In this training we will explore the use of Jupyter for interactive protoyping with Python. Jupyter is a versatile tool for executable notebooks available on multiple platforms from own computer to the cloud. The lesson will introduce the tool as an alternative to writing scripts and discuss the usecases for scripts versus notebooks.\nEligibility for participation: Open for everyone, but most useful for researchers who code\nTime and date: 22.10 at XX.XX\nExpectations: Everyone can follow the lesson\nGrading: No grading"
   },
   {
     "objectID": "index.html#syllabus",
     "href": "index.html#syllabus",
     "title": "Jupyter - Interactive prototyping with Python",
     "section": "",
-    "text": "Contact & Instructor: Samantha Wittke, CSC - IT Center for Science, Finland; samantha.wittke@csc.fi Description: In this training we will explore the use of Jupyter for interactive protoyping with Python. Jupyter is a versatile tool for executable notebooks available on multiple platforms from own computer to the cloud. The lesson will introduce the tool as an alternative to writing scripts and discuss the usecases for scripts versus notebooks. Eligibility for participation: Open for everyone, but most useful for researchers who code Time and date: 22.10 at XX.XX Expectations: Everyone can follow the lesson Grading: No grading"
+    "text": "Contact & Instructor: Samantha Wittke, CSC - IT Center for Science, Finland; samantha.wittke@csc.fi\nDescription: In this training we will explore the use of Jupyter for interactive protoyping with Python. Jupyter is a versatile tool for executable notebooks available on multiple platforms from own computer to the cloud. The lesson will introduce the tool as an alternative to writing scripts and discuss the usecases for scripts versus notebooks.\nEligibility for participation: Open for everyone, but most useful for researchers who code\nTime and date: 22.10 at XX.XX\nExpectations: Everyone can follow the lesson\nGrading: No grading"
   }
 ]

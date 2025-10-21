@@ -12,4 +12,7 @@ format: revealjs
 ## Why would I want to use this
 
 - Because it's awesome!
-- 
+
+::: {.notes}
+Testing: Speaker notes go here.
+::: 
