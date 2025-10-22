@@ -1,13 +1,14 @@
 ---
 format: revealjs
+footer: <a href="https://samumantha.github.io/FAIR_training_exercise_Jupyter">Jupyter - Interactive prototyping with Python</a> © 2025 by <a href="https://orcid.org/0000-0002-9625-7235">Samantha Wittke</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 ---
 
-# Jupyter - Interactive prototyping with Python
+![Jupyter logo](https://github.com/jupyter/design/blob/main/logos/Square%20Logo/squarelogo-greytext-orangebody-greymoons/squarelogo-greytext-orangebody-greymoons.svg){width=300}
+
+# Jupyter - Interactive prototyping with Python {.smaller}
 Samantha Wittke
 
-::: aside
-<a href="https://samumantha.github.io/FAIR_training_exercise_Jupyter">Jupyter - Interactive prototyping with Python</a> © 2025 by <a href="https://orcid.org/0000-0002-9625-7235">Samantha Wittke</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-:::
 ---
 
 ## What are interactive notebooks?
