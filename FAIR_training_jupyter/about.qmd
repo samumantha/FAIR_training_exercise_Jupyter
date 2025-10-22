@@ -1,11 +1,12 @@
 ---
 format: revealjs
-
 ---
 
-![Jupyter logo](https://github.com/jupyter/design/blob/main/logos/Square%20Logo/squarelogo-greytext-orangebody-greymoons/squarelogo-greytext-orangebody-greymoons.svg){width=300}
 
 # Jupyter - Interactive prototyping with Python {.smaller}
+
+![](https://raw.githubusercontent.com/jupyter/design/refs/heads/main/logos/Square%20Logo/squarelogo-greytext-orangebody-greymoons/squarelogo-greytext-orangebody-greymoons.svg){width=10%}
+
 Samantha Wittke
 
 ::: footer
